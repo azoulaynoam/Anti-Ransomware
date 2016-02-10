@@ -80,7 +80,14 @@ namespace Anti_Ransomware
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            richTextBox1.Text = File.ReadAllText("new.txt");
+            try
+            {
+                richTextBox1.Text = File.ReadAllText("new.txt");
+            }
+            catch
+            {
+                return;
+            }
         }
     }
 }
