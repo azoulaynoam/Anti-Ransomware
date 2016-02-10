@@ -11,15 +11,6 @@
 // Include our header, must come after #define DLL_EXPORT
 #include "DLL_Files_Change.h"
 
-//#pragma pack(1)
-//	typedef struct DATA
-//	{
-//		char filename[256];
-//		char action[20];
-//	}variables_t;
-//#pragma pack()
-
-
 // Get rid of name mangeling
 extern "C"
 {
@@ -94,11 +85,6 @@ extern "C"
 			{
 				pInfo = (FILE_NOTIFY_INFORMATION*) d->buffer;
 				pInfo->FileName[pInfo->FileNameLength / 2] = '\0';
-
-				/*variables_t* variables = new variables_t[1]; 
-				strcpy(variables->filename , "fff.txt");
-    			strcpy(variables->action , ACTIONS[pInfo->Action]); */
-
 				std::ofstream outfile("new.txt", std::ofstream::app);
 				// write to outfile
 				char *FileName = new char[256 + 1];
@@ -106,11 +92,7 @@ extern "C"
 				wcstombs(FileName, pInfo->FileName, 256);
 				outfile << FileName <<" "<< ACTIONS[pInfo->Action] <<std::endl;
 				outfile.close();
-
-				/*wprintf(L"File %s", pInfo->FileName);
-				wprintf(L" changes %s\n", ACTIONS[pInfo->Action]);*/
 				memset(d->buffer, 0, 16777216);
-				//getch();
 			}
 			else
 			{
