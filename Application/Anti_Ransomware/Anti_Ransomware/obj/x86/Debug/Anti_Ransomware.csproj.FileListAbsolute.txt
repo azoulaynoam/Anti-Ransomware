@@ -1,0 +1,16 @@
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\bin\Debug\Anti_Ransomware.exe
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\bin\Debug\Anti_Ransomware.pdb
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csprojResolveAssemblyReference.cache
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.MainForm.resources
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.Properties.Resources.resources
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csproj.GenerateResource.Cache
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.exe
+C:\Users\xXNoa\Desktop\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.pdb
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.exe
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.pdb
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\bin\Debug\Anti_Ransomware.exe
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\bin\Debug\Anti_Ransomware.pdb
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csprojResolveAssemblyReference.cache
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.MainForm.resources
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.Properties.Resources.resources
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csproj.GenerateResource.Cache

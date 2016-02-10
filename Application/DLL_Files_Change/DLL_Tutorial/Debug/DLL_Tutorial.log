@@ -1,0 +1,7 @@
+﻿  DLL_Files_Change.cpp
+c:\users\xxnoa\documents\github\anti-ransomware\application\dll_files_change\dll_tutorial\dll_files_change.cpp(106): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1008): note: see declaration of 'wcstombs'
+c:\users\xxnoa\documents\github\anti-ransomware\application\dll_files_change\dll_tutorial\dll_files_change.cpp(134): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+     Creating library C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\DLL_Files_Change\Debug\DLL_Files_Change.lib and object C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\DLL_Files_Change\Debug\DLL_Files_Change.exp
+  DLL_Tutorial.vcxproj -> C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\DLL_Files_Change\Debug\DLL_Files_Change.dll

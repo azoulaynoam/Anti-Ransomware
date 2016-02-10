@@ -1,0 +1,6 @@
+==========================================================================================
+= How to set up this source code
+==========================================================================================
+Create a new Windows project. 
+In 'Advanced' tab check DLL and make sure Empty Project is checked.
+Add the .cpp, .h, and .def files
