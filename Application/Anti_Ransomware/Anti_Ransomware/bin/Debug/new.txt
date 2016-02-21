@@ -11,3 +11,13 @@ Hello how are you.txt Created
 Hello how are you.txt Updated
 Hello how are you.txt Updated
 Hello how are you.txt Deleted
+New folder Created
+New folder\New Text Document.txt Created
+New folder Updated
+New folder\New Text Document.txt Renamed from something
+New folder Updated
+New folder\ Updated
+New folder\ Updated
+New folder\New Microsoft Visio Drawing.vsdx Created
+New folder\New Text Document.txt Created
+New folder Updated
