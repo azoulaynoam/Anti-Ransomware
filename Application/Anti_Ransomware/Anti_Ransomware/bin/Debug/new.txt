@@ -21,3 +21,4 @@ New folder\ Updated
 New folder\New Microsoft Visio Drawing.vsdx Created
 New folder\New Text Document.txt Created
 New folder Updated
+New Text Document (2).txt Created

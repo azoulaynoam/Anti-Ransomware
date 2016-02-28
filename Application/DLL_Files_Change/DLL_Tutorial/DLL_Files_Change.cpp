@@ -83,6 +83,7 @@ extern "C"
 												 (LPOVERLAPPED*)(d->o), 1000);
 			if ( bResultQ && bResultR )
 			{
+
 				pInfo = (FILE_NOTIFY_INFORMATION*) d->buffer;
 				pInfo->FileName[pInfo->FileNameLength / 2] = '\0';
 				std::ofstream outfile("new.txt", std::ofstream::app);
@@ -106,9 +107,8 @@ extern "C"
     //-----------------------------------------------------------------------
 	// Define our 2 functions
 	// Add will return the sum of two numbers
-	DECLDIR void Files_Change( char* dir_path_char)// void * variables )
+	DECLDIR void Files_Change( char* dir_path_char)
 	{
-		//variables_g = variables;
 			//-----------------------------------------------------------------------
 		    // Convert char * to LPWSTR
 			//-----------------------------------------------------------------------
@@ -146,5 +146,5 @@ extern "C"
 
 			// Close all thread handles and free memory allocations.
 			CloseHandle(hThread);
-	}	
+	}
 }
