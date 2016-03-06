@@ -14,3 +14,5 @@ C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti
 C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.MainForm.resources
 C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.Properties.Resources.resources
 C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csproj.GenerateResource.Cache
+C:\Users\34v7\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.exe
+C:\Users\34v7\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.pdb

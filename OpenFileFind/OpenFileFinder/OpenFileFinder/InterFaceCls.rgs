@@ -1,0 +1,61 @@
+HKCR
+{
+	NoRemove CLSID
+	{
+		ForceRemove {3E56AAF8-76C0-4C75-B835-44DAB3569F06} = s 'InterFaceCls Class'
+		{
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+		}
+	}
+	
+	NoRemove Directory
+  {
+    NoRemove shellex
+    {
+      NoRemove ContextMenuHandlers
+      {
+        ForceRemove ChkOpenFile = s '{3E56AAF8-76C0-4C75-B835-44DAB3569F06}'
+      }
+    }
+  }
+
+  NoRemove Folder
+  {
+    NoRemove shellex
+    {
+      NoRemove ContextMenuHandlers
+      {
+        ForceRemove ChkOpenFile = s '{3E56AAF8-76C0-4C75-B835-44DAB3569F06}'
+      }
+    }
+  }
+
+
+  NoRemove Drive
+  {
+    NoRemove shellex
+    {
+      NoRemove ContextMenuHandlers
+      {
+        ForceRemove ChkOpenFile = s '{3E56AAF8-76C0-4C75-B835-44DAB3569F06}'
+      }
+    }
+  }
+
+  NoRemove Directory
+  {
+    NoRemove Background
+	{
+		NoRemove shellex
+		{
+		  NoRemove ContextMenuHandlers
+		  {
+			ForceRemove ChkOpenFile = s '{3E56AAF8-76C0-4C75-B835-44DAB3569F06}'
+		  }
+		}
+	}
+  }
+}

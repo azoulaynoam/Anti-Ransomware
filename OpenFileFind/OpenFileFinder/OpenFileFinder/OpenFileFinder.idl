@@ -1,0 +1,34 @@
+// OpenFileFinder.idl : IDL source for OpenFileFinder
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (OpenFileFinder.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(86CFCD1E-4736-48C5-96CD-483D5A784D20),
+	helpstring("IInterFaceCls Interface"),
+	pointer_default(unique)
+]
+interface IInterFaceCls : IUnknown{
+};
+[
+	uuid(FCBDF445-BF10-4E71-90B0-0522B34717A3),
+	version(1.0),
+	helpstring("OpenFileFinder 1.0 Type Library")
+]
+library OpenFileFinderLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(3E56AAF8-76C0-4C75-B835-44DAB3569F06),
+		helpstring("InterFaceCls Class")
+	]
+	coclass InterFaceCls
+	{
+		[default] interface IInterFaceCls;
+	};
+};

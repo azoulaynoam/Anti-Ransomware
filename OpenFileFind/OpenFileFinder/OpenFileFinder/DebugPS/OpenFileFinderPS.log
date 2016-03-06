@@ -1,0 +1,38 @@
+﻿Build started 06/03/2016 08:37:29.
+     1>Project "C:\Users\34v7\Anti-Ransomware\OpenFileFind\OpenFileFinder\OpenFileFinder\OpenFileFinderPS.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "DebugPS\OpenFileFinderPS.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "DebugPS\OpenFileFinderPS.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       PreBuildEvent:
+         Description: Checking for required files
+         if exist dlldata.c goto :END
+         echo Error: MIDL will not generate DLLDATA.C unless you have at least 1 interface in the main project.
+         Exit 1
+         :END
+         
+         :VCEnd
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Oy- /D WIN32 /D _WIN32_WINNT=0x0500 /D REGISTER_PROXY_DLL /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"DebugPS\\" /Fd"DebugPS\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt dlldata.c OpenFileFinder_i.c OpenFileFinder_p.c
+         dlldata.c
+         OpenFileFinder_i.c
+         OpenFileFinder_p.c
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"DebugPS\OpenFileFinderPS.dll" /NOLOGO kernel32.lib rpcns4.lib rpcrt4.lib oleaut32.lib uuid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"OpenFileFinderPS.def" /MANIFEST /ManifestFile:"DebugPS\OpenFileFinderPS.dll.intermediate.manifest" /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /PDB:"C:\Users\34v7\Anti-Ransomware\OpenFileFind\OpenFileFinder\OpenFileFinder\DebugPS\OpenFileFinderPS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"DebugPS\OpenFileFinderPS.lib" /MACHINE:X86 /DLL DebugPS\dlldata.obj
+         DebugPS\OpenFileFinder_i.obj
+         DebugPS\OpenFileFinder_p.obj
+            Creating library DebugPS\OpenFileFinderPS.lib and object DebugPS\OpenFileFinderPS.exp
+         OpenFileFinderPS.vcxproj -> C:\Users\34v7\Anti-Ransomware\OpenFileFind\OpenFileFinder\OpenFileFinder\DebugPS\OpenFileFinderPS.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"DebugPS\OpenFileFinderPS.dll;#2" /manifest DebugPS\OpenFileFinderPS.dll.intermediate.manifest
+       RegisterOutput:
+         regsvr32 /s "DebugPS\OpenFileFinderPS.dll"
+       FinalizeBuildStatus:
+         Deleting file "DebugPS\OpenFileFinderPS.unsuccessfulbuild".
+         Touching "DebugPS\OpenFileFinderPS.lastbuildstate".
+     1>Done Building Project "C:\Users\34v7\Anti-Ransomware\OpenFileFind\OpenFileFinder\OpenFileFinder\OpenFileFinderPS.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.08
