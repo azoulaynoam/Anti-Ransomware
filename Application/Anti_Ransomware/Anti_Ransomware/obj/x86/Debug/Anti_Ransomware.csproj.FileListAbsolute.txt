@@ -16,3 +16,11 @@ C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti
 C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csproj.GenerateResource.Cache
 C:\Users\34v7\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.exe
 C:\Users\34v7\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.pdb
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.exe
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.pdb
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\bin\Debug\Anti_Ransomware.exe
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\bin\Debug\Anti_Ransomware.pdb
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csprojResolveAssemblyReference.cache
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.MainForm.resources
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.Properties.Resources.resources
+D:\Anti-Ransomware\Application\Anti_Ransomware\Anti_Ransomware\obj\x86\Debug\Anti_Ransomware.csproj.GenerateResource.Cache

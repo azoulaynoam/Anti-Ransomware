@@ -1,0 +1,16 @@
+D:\TestGui\TestGui\bin\Debug\TestGui.exe
+D:\TestGui\TestGui\bin\Debug\TestGui.pdb
+D:\TestGui\TestGui\obj\x86\Debug\TestGui.MainForm.resources
+D:\TestGui\TestGui\obj\x86\Debug\TestGui.Properties.Resources.resources
+D:\TestGui\TestGui\obj\x86\Debug\TestGui.csproj.GenerateResource.Cache
+D:\TestGui\TestGui\obj\x86\Debug\TestGui.exe
+D:\TestGui\TestGui\obj\x86\Debug\TestGui.pdb
+D:\TestGui\TestGui\obj\x86\Debug\TestGui.csprojResolveAssemblyReference.cache
+D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.exe
+D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.pdb
+D:\OpenFileFind\TestGui\TestGui\bin\Debug\TestGui.exe
+D:\OpenFileFind\TestGui\TestGui\bin\Debug\TestGui.pdb
+D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.csprojResolveAssemblyReference.cache
+D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.MainForm.resources
+D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.Properties.Resources.resources
+D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.csproj.GenerateResource.Cache

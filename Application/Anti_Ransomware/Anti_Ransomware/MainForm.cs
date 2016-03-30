@@ -24,7 +24,7 @@ namespace Anti_Ransomware
         //    string action;
         //};
 
-        [DllImport(@"C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\DLL_Files_Change\Debug\DLL_Files_Change.dll")]
+        [DllImport(@"DLL_Files_Change.dll")]
         static extern void Files_Change(string dir_path);//, ref  variables_t variables);
 
 

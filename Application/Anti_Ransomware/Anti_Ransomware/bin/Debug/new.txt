@@ -1,24 +1,21 @@
-New Text Document.txt Created
-New Text Document.txt Renamed from something
-asd.txt Renamed from something
-sdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.txt Renamed from something
-asd.txt Updated
-asd.txt Deleted
-New Text Document.txt Created
-New Text Document.txt Renamed from something
-Hello how are you.txt Deleted
-Hello how are you.txt Created
-Hello how are you.txt Updated
-Hello how are you.txt Updated
-Hello how are you.txt Deleted
-New folder Created
-New folder\New Text Document.txt Created
-New folder Updated
-New folder\New Text Document.txt Renamed from something
-New folder Updated
-New folder\ Updated
-New folder\ Updated
-New folder\New Microsoft Visio Drawing.vsdx Created
-New folder\New Text Document.txt Created
-New folder Updated
-New Text Document (2).txt Created
+ Deleted
+ Created
+ Renamed from something
+a.txt Updated
+a.txt Deleted
+ Created
+ Renamed from something
+a.txt Updated
+a.txt Updated
+a.txt Updated
+a.txt Deleted
+ATL MFC Trace Tool settings file  Created
+ATL MFC Trace Tool settings file  Renamed from something
+a.trc Updated
+a.trc Deleted
+a.trc Created
+a.trc Updated
+a.trc Updated
+a.trc Deleted
+ Created
+ Deleted
