@@ -7,23 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace TestGui
+namespace Anti_Ransomware
 {
     public partial class MainForm : Form
     {
-        PythonEngine pythonEngine;
+        GUI pythonEngine;
 
         public MainForm()
         {
             InitializeComponent();
-            pythonEngine = new PythonEngine(this);
+            pythonEngine = new GUI(this);
         }
 
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-
+            pythonEngine.Close();
         }
-
-      
     }
 }

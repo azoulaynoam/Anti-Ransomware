@@ -86,13 +86,13 @@ extern "C"
 
 				pInfo = (FILE_NOTIFY_INFORMATION*) d->buffer;
 				pInfo->FileName[pInfo->FileNameLength / 2] = '\0';
-				std::ofstream outfile("new.txt", std::ofstream::app);
+				//std::ofstream outfile("new.txt", std::ofstream::app);
 				// write to outfile
-				char *FileName = new char[256 + 1];
-				memset(FileName, 0, 256 + 1);
-				wcstombs(FileName, pInfo->FileName, 256);
-				outfile << FileName <<" "<< ACTIONS[pInfo->Action] <<std::endl;
-				outfile.close();
+				//char *FileName = new char[256 + 1];
+				//memset(FileName, 0, 256 + 1);
+				//wcstombs(FileName, pInfo->FileName, 256);
+				//outfile << FileName <<" "<< ACTIONS[pInfo->Action] <<std::endl;
+				//outfile.close();
 				memset(d->buffer, 0, 16777216);
 			}
 			else
@@ -107,7 +107,7 @@ extern "C"
     //-----------------------------------------------------------------------
 	// Define our 2 functions
 	// Add will return the sum of two numbers
-	DECLDIR void Files_Change( char* dir_path_char)
+	DECLDIR char* Files_Change( char* dir_path_char)
 	{
 			//-----------------------------------------------------------------------
 		    // Convert char * to LPWSTR

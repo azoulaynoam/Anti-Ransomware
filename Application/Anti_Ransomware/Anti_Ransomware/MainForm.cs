@@ -27,8 +27,6 @@ namespace Anti_Ransomware
         [DllImport(@"DLL_Files_Change.dll")]
         static extern void Files_Change(string dir_path);//, ref  variables_t variables);
 
-
-
         public MainForm()
         {
             InitializeComponent();

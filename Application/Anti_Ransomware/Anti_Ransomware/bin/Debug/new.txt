@@ -19,3 +19,8 @@ a.trc Updated
 a.trc Deleted
  Created
  Deleted
+a.txt Updated
+a.txt Updated
+a.txt Deleted
+New Text Document.txt Updated
+New Text Document.txt Updated

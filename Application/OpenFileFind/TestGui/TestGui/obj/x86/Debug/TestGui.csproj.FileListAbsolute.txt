@@ -14,3 +14,10 @@ D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.csprojResolveAssemblyRefer
 D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.MainForm.resources
 D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.Properties.Resources.resources
 D:\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.csproj.GenerateResource.Cache
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.exe
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.pdb
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\bin\Debug\TestGui.exe
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\bin\Debug\TestGui.pdb
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\obj\x86\Debug\Anti_Ransomware.MainForm.resources
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.Properties.Resources.resources
+C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\TestGui\TestGui\obj\x86\Debug\TestGui.csproj.GenerateResource.Cache

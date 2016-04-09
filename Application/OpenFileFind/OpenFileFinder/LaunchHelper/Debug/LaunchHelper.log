@@ -1,36 +1,5 @@
-﻿Build started 30/03/2016 09:59:56.
-     1>Project "D:\OpenFileFind\OpenFileFinder\LaunchHelper\LaunchHelper.vcxproj" on node 2 (rebuild target(s)).
-     1>_PrepareForClean:
-         Deleting file "Debug\LaunchHelper.lastbuildstate".
-       InitializeBuildStatus:
-         Touching "Debug\LaunchHelper.unsuccessfulbuild".
-       ClCompile:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Launchhelper.cpp
-         Launchhelper.cpp
-       ResourceCompile:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\LaunchHelper.res" LaunchHelper.rc 
-       ManifestResourceCompile:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\LaunchHelper.exe.embed.manifest.res" Debug\LaunchHelper_manifest.rc 
-     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(D:\OpenFileFind\OpenFileFinder\LaunchHelper\..\bin\win32\debug\LaunchHelper.exe) does not match the Linker's OutputFile property value (D:\OpenFileFind\OpenFileFinder\bin\win32\debug\OpenFileFinder.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(LaunchHelper) does not match the Linker's OutputFile property value (OpenFileFinder). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-       Link:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin\win32\debug\OpenFileFinder.exe" /INCREMENTAL /NOLOGO ..\lib\win32\debug\OpenFileFinder.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LaunchHelper.exe.intermediate.manifest" /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /DEBUG /PDB:"D:\OpenFileFind\OpenFileFinder\bin\win32\debug\LaunchHelper.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\bin\win32\debug\LaunchHelper.lib" /MACHINE:X86 Debug\LaunchHelper.res
-         Debug\LaunchHelper.exe.embed.manifest.res
-         Debug\Launchhelper.obj
-       Manifest:
-         Deleting file "Debug\LaunchHelper.exe.embed.manifest".
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LaunchHelper.exe.embed.manifest" /manifest Debug\LaunchHelper.exe.intermediate.manifest Launchhelper.exe.manifest
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\LaunchHelper.exe.embed.manifest.res" Debug\LaunchHelper_manifest.rc 
-       LinkEmbedManifest:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin\win32\debug\OpenFileFinder.exe" /INCREMENTAL /NOLOGO ..\lib\win32\debug\OpenFileFinder.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LaunchHelper.exe.intermediate.manifest" /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /DEBUG /PDB:"D:\OpenFileFind\OpenFileFinder\bin\win32\debug\LaunchHelper.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\bin\win32\debug\LaunchHelper.lib" /MACHINE:X86 Debug\LaunchHelper.res
-         Debug\LaunchHelper.exe.embed.manifest.res
-         Debug\Launchhelper.obj
-         LaunchHelper.vcxproj -> D:\OpenFileFind\OpenFileFinder\LaunchHelper\..\bin\win32\debug\LaunchHelper.exe
-       FinalizeBuildStatus:
-         Deleting file "Debug\LaunchHelper.unsuccessfulbuild".
-         Touching "Debug\LaunchHelper.lastbuildstate".
-     1>Done Building Project "D:\OpenFileFind\OpenFileFinder\LaunchHelper\LaunchHelper.vcxproj" (rebuild target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.97
+﻿  Launchhelper.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\OpenFileFinder\LaunchHelper\..\bin\win32\debug\LaunchHelper.exe) does not match the Linker's OutputFile property value (C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\OpenFileFinder\bin\win32\debug\OpenFileFinder.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(LaunchHelper) does not match the Linker's OutputFile property value (OpenFileFinder). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+Launchhelper.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  LaunchHelper.vcxproj -> C:\Users\xXNoa\Documents\GitHub\Anti-Ransomware\Application\OpenFileFind\OpenFileFinder\LaunchHelper\..\bin\win32\debug\LaunchHelper.exe
